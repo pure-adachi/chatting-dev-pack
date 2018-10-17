@@ -1,0 +1,5 @@
+/.bundle/
+/tmp/
+/projects/
+/vendor/bundle
+/npm-debug.log
