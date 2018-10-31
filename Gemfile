@@ -13,3 +13,7 @@ gem "listen"
 gem "postgresql"
 gem "graphql"
 gem "graphql-batch"
+gem 'pry-byebug'
+gem 'pry-rails'
+gem 'redis', '~> 4.0'
+gem 'puma'
