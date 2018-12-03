@@ -2,6 +2,15 @@
 
 ## Heroku Development
 
+### Frontend
+
+#### Versions
+
+|      |         |
+| :--- | :------ |
+| node | v11.3.0 |
+| npm  | 6.4.1   |
+
 ### Backend
 
 #### Database
