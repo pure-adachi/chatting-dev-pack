@@ -28,6 +28,9 @@
 - レスポンシブルデザイン
 - スクロールバー
 - アイコン
+- 国際化対応
+- Front Back 分離プロジェクト
+- Cloudinary
 
 ## Heroku Development
 
