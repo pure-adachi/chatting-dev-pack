@@ -5,8 +5,8 @@
     "start": "bundle exec foreman start",
     "install": "mkdir -p projects && npm run git-clone && bundle install --path vendor/bundle && npm run setup",
     "git-clone": "npm run git-clone-backend && npm run git-clone-frontend",
-    "git-clone-backend": "cd projects && git clone git@chatting.bitbucket.org:etiopiamokamame/chatting-backend.git",
-    "git-clone-frontend": "cd projects && git clone git@chatting.bitbucket.org:etiopiamokamame/chatting-frontend.git",
+    "git-clone-backend": "cd projects && git clone https://github.com/pure-adachi/chatting-backend.git",
+    "git-clone-frontend": "cd projects && git clone https://github.com/pure-adachi/chatting-frontend.git",
     "setup": "npm run setup-frontend && npm run setup-backend",
     "setup-frontend": "cd projects/chatting-frontend && npm install",
     "setup-backend": "cd projects/chatting-backend && npm install"
